@@ -1,0 +1,13 @@
+{
+	"compileOnSave": true,
+    "compilerOptions": {
+		"module": "commonjs",
+		"declaration": true,
+		"target": "es5",
+        "outDir": "dist"
+	},
+    "files":[
+        "./src/etcd-client.ts"
+    ]
+}
+
