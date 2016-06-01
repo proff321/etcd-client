@@ -1,6 +1,6 @@
 {
   "name": "etcd-client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A very lightweight tool for interacting with the etcd service via HTTP requests.",
   "main": "dist/etcd-client.js",
   "scripts": {
